@@ -1,4 +1,4 @@
-# downloader_ini_wizard.github.io
+# downloader_ini_wizard
 
 Managing `downloader.ini` files for the MiSTer FPGA can be complex. This project, `downloader_ini_wizard`, aims to simplify this process by providing user-friendly tools to create, edit, and understand these configuration files.
 
